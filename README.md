@@ -70,7 +70,7 @@ AtliQ Hardwares faced:
 ## 🔗 Project Links
 
 - ✅ **Live Dashboard**: [View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMDNjYmY3ZTUtNDdmOC00Mzg4LWE5NjAtOWE2M2FjNzU1MDNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- 📁 **Google Drive (PBIX File)**: [Download](https://drive.google.com/file/d/1W17NLRZmb7rQH7ZjaHtW-BRvYxtDRJVC/view?usp=sharing)
+- 📁 **Google Drive (PBIX File)**: [Download](https://drive.google.com/file/d/1dQ8pHWRkm9ZiwN3O0o0Upqv2BRzRxJyQ/view?usp=drive_link)
 
 ---
 
